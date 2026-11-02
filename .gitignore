@@ -1,0 +1,5 @@
+target/
+highscore.txt
+settings.txt
+*.class
+dist/
